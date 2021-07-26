@@ -1,9 +1,6 @@
-# Fabric Example Mod
+# WIP Client sided fabric MIXIN
 
-## Setup
+## Description
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This is a client sided fabric MIXIN that detects any Witch entities surrounding the player and wait for them to drink a swiftness potion then kills them
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
